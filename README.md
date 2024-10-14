@@ -30,6 +30,3 @@ Minecraft ！IVE Minecraft，this' my candy！
 
 ------
 
-
-
-```java
