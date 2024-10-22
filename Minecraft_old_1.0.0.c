@@ -3,7 +3,7 @@
 #include <stdlib.h>
 int esd1 () {
 	system("cls");
-	printf("¼´½«Æô¶¯\n");
+	printf("å³å°†å¯åŠ¨\n");
 //	system("cd C:\\1.21.1");
 //	system(""C:\\App\\java\\jdk-21\\bin\\java.exe" -server -Xms1024M -Xmx4096M -jar fabric-server-launch.jar -nogui");
 	system("java -server -Xms1024M -Xmx4096M -jar fabric-server-launch.jar -nogui");
@@ -18,7 +18,7 @@ int esd2 () {
 
 int esd3 () {
 	system("cls");
-	printf("ÍË³ö£¿\nÐèÒª°´ÈÎÒâ¼üÈ·ÈÏ");
+	printf("é€€å‡ºï¼Ÿ\néœ€è¦æŒ‰ä»»æ„é”®ç¡®è®¤");
 	system("pause");
 	system("exit");
 	return 0;
@@ -27,11 +27,11 @@ int esd3 () {
 int main () {
 	system("cls");
 	int num;
-	printf("ÊäÈë1¡¢2¡¢3Ñ¡ÔñÐèÒª½øÐÐµÄ²Ù×÷\n");
-	printf("¡°1¡±ÊÇÆô¶¯·þÎñÆ÷\n¡°2¡±ÊÇ¡°=£þ¦Ø£þ=¡±\n¡°3¡±ÊÇÍË³ö¸Ã³ÌÐò\n");
+	printf("è¾“å…¥1ã€2ã€3é€‰æ‹©éœ€è¦è¿›è¡Œçš„æ“ä½œ\n");
+	printf("â€œ1â€æ˜¯å¯åŠ¨æœåŠ¡å™¨\nâ€œ2â€æ˜¯â€œ=ï¿£Ï‰ï¿£=â€\nâ€œ3â€æ˜¯é€€å‡ºè¯¥ç¨‹åº\n");
 
 //	system("pause");
-	printf("ÇëÊäÈë1¡¢2¡¢3ÒÔÖ´ÐÐ³ÌÐò·ÖÃüÁî\n");
+	printf("è¯·è¾“å…¥1ã€2ã€3ä»¥æ‰§è¡Œç¨‹åºåˆ†å‘½ä»¤\n");
 	scanf("%d",&num);
 	if (num > 0 )
 	{
