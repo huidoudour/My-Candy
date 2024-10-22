@@ -1,6 +1,8 @@
 # My-Candy
 Store some files that I usually play in Minecraft.
 
+The "Minecraft.c" file is by GBK
+
 Minecraft ！IVE Minecraft，this's my candy！
 
 ------
